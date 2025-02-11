@@ -1,8 +1,8 @@
 ### Hi there, I'm [Eaysin Arafat](https://eaysin-arafat.vercel.app/) 👋
 
-I'm a Frontend Developer with 2 years of experience, specializing in React, TypeScript, and modern web development. I'm dedicated to solving problems both in coding and in everyday life. Self-taught and driven, I embrace each technology as a unique philosophy, specializing in user-centric web applications with a focus on performance and scalability.
+I'm a Frontend Developer with 2 years of experience, specializing in React, TypeScript, and modern web development. I'm dedicated to solving problems through coding, with a strong focus on performance and scalability. Self-taught and driven, I embrace each technology as a unique philosophy, specializing in user-centric web applications.
 
-I prioritize clean code and real-time, efficient user experiences to ensure every project exceeds expectations.
+I prioritize clean code and real-time, efficient user experiences to ensure that every project meets the highest standards.
 
 **My Research Interest**:
 - Performance Optimization in Web Apps
