@@ -4,6 +4,12 @@ I'm a Frontend Developer with 2 years of experience, specializing in React, Type
 
 I prioritize clean code and real-time, efficient user experiences to ensure that every project meets the highest standards.
 
+## 📌 Important Note on Repository Activity
+
+> **Account Migration Notice**  
+> Between [Month] 2023 and [Month] 2024, you'll notice multiple repository forks created within a short timeframe. This occurred due to losing access to my original GitHub account ([eaysin-arafat](https://github.com/eaysin-arafat)) after a device reset caused 2FA lockout. These forks represent my continued development work being migrated to this new account after unsuccessful recovery attempts of the original account.
+
+
 **My Research Interest**:
 - Performance Optimization in Web Apps
 - Algorithm Design & Analysis
