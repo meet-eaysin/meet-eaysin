@@ -74,6 +74,3 @@ I prioritize clean code and real-time, efficient user experiences to ensure that
 [<img src="https://img.shields.io/badge/Blog-%2312100E.svg?style=for-the-badge&logo=book&logoColor=white&color=black" />](https://eaysin-arafat.hashnode.dev/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/eaysin.arafat.j/)
 </p>
-
-| <a href="https://github.com/eaysin-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eaysin-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eaysin's github stats" /></a> | <a href="https://github.com/eaysin-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaysin-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
