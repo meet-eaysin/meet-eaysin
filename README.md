@@ -1,4 +1,4 @@
-### Hi there, I'm [Eaysin Arafat](https://eaysin-arafat.vercel.app/) 👋
+### Hi there, I'm [Eaysin Mia](https://eaysin-arafat.vercel.app/) 👋
 
 I'm a Frontend Developer with 2 years of experience, specializing in React, TypeScript, and modern web development. I'm dedicated to solving problems through coding, with a strong focus on performance and scalability. Self-taught and driven, I embrace each technology as a unique philosophy, specializing in user-centric web applications.
 
