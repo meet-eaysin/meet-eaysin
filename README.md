@@ -1,6 +1,8 @@
 ### Hi there, I'm [Eaysin Mia](https://eaysin-arafat.vercel.app/) 👋
 
-2+ years of experience working on scalable web applications and backend solutions. Skilled in modern web technology stacks for the frontend and backend solutions involving both relational and NoSQL databases. Experienced in API design, modular architecture, containerization, and CI/CD practices. Worked on ERP systems, healthcare platforms, and AI-powered reporting with end-to-end deployment and system integration.
+Full Stack Engineer with 2+ years of experience building web applications and backend systems. I work with modern tech stacks for both frontend and backend, including React.js, Next.js, Node.js, and TypeScript.
+
+Experienced in API design, authentication systems, real-time features, and database management with both SQL and NoSQL. Familiar with containerization, CI/CD workflows, and exploring microservices architecture. I've worked on ERP systems, healthcare platforms, and reporting tools with end-to-end feature development.
 
 ## Tech Stack
 
