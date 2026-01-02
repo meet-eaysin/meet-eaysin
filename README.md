@@ -1,8 +1,16 @@
 ### Hi there, I'm [Eaysin Mia](https://eaysin-arafat.vercel.app/) 👋
 
-Full Stack Engineer with 2+ years of experience building web applications and backend systems. I work with modern tech stacks for both frontend and backend, including React.js, Next.js, Node.js, and TypeScript.
+I have a little over two years of professional experience working with JavaScript and TypeScript across both frontend and backend development.
 
-Experienced in API design, authentication systems, real-time features, and database management with both SQL and NoSQL. Familiar with containerization, CI/CD workflows, and exploring microservices architecture. I've worked on ERP systems, healthcare platforms, and reporting tools with end-to-end feature development.
+Currently, I work at Next Level Media, where I contribute to our in-house ERP product MyManager, built on the MERN stack. My primary responsibilities include Google Ads Manager integration, Twilio A2P 10DLC SMS automation, and developing the employee scheduling system. Alongside this, I support workflow automation and AI-powered dynamic reporting modules. Recently, I designed the entire database schema and API architecture for the Seating and Ticketing module, which is now in the staging phase.
+
+Previously, I worked remotely with Blackrock IT Solutions, where I contributed to HybridChart, a healthcare application. There, I worked on the reporting module of the scheduling system, including real-time staff scheduling, permission management, and location-based reporting. Earlier in my career, I worked as a Frontend Developer in the healthcare domain, contributing to projects like Health CarePro (a Zambian government healthcare system) and the TUSO ticket management system.
+
+In addition to my professional work, I have built a personal project—a microservices-based financial management system. In this project, I use NestJS, Docker, RabbitMQ, Kong API Gateway, and Redis, and it consists of 14+ services. Through this project, I actively experiment with backend architecture, system design, and distributed systems.
+
+I am a self-taught developer and have not taken any formal programming courses. I follow my own learning philosophy and approach to understanding technology. I focus on why things work, not just how. Because of this, I often revisit documentation, which helps me build deeper understanding. I enjoy debugging and consider it one of my strengths. I also enjoy writing—I have written and published several technical articles and case studies, which I regularly share on platforms like daily.dev.
+
+Currently, I am consistently studying DevOps, cloud technologies, microservices, and data structures, and I’m always looking to grow both technically and professionally.
 
 ## Tech Stack
 
